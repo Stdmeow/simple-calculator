@@ -73,3 +73,4 @@ To get the project running on your local machine, you need to have **Node.js** a
 
 
 After running `npm run build`, you can open the `index.html` file from the `dist` folder in your browser to see the final, optimized application.
+
