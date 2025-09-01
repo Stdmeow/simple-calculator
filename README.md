@@ -52,7 +52,7 @@ To get the project running on your local machine, you need to have **Node.js** a
     ```
 
 3.  **Build for production**:
-    To create a production-ready version of the project (optimized and minimized), run the build command. The final files will be placed in the `dist` folder.
+    To create a production-ready version of the project (optimized and minimized), run the build command. The final files will be placed in the `docs` folder.
 
     ```bash
     npm run build
@@ -60,6 +60,7 @@ To get the project running on your local machine, you need to have **Node.js** a
 
 
 After running `npm run build`, you can open the `index.html` file from the `dist` folder in your browser to see the final, optimized application.
+
 
 
 
