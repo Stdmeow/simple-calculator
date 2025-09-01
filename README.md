@@ -21,20 +21,7 @@ The main goal of this project is to implement a fully functional calculator as d
 
 ## Project Structure
 
-The project is organized into a clear folder structure to keep the source code and build files separate.
-
-simple-calculator/
-  src/
-    js
-      index.js          # Main JavaScript file with all calculator logic
-    css/
-      style.css         # All CSS styles for the calculator
-    index.html          # The main HTML file and template
-  dist/                 # Folder for the production build
-  .eslintrc.json        # ESLint configuration
-  .prettierrc.json      # Prettier configuration
-  package.json          # Project dependencies and scripts
-  webpack.config.js     # Webpack build configuration
+The project is organized into a clear folder structure to keep the source code and build files separate. simple-calculator/ contains src/ (which includes js/, css/, and index.html), dist/, .eslintrc.json, .prettierrc.json, package.json, and webpack.config.js.
 
 
 ### Folder Descriptions
@@ -73,5 +60,6 @@ To get the project running on your local machine, you need to have **Node.js** a
 
 
 After running `npm run build`, you can open the `index.html` file from the `dist` folder in your browser to see the final, optimized application.
+
 
 
