@@ -3,12 +3,8 @@
 This project is a simple web-based calculator built from scratch using pure HTML, CSS, and JavaScript. The goal of this project was to create a functional calculator with a modern design and implement best practices for web development.
 
 
-# Task
-
-The main goal of this project is to implement a fully functional calculator as described in the provided task document: https://docs.google.com/document/d/1zpXXeSae-BlcxPKgw3DhxZA92cspVailrPYoaXSYrW8/edit?tab=t.0
-
-
 ## Project Features
+
 
 * **Arithmetic Operations**: Supports standard operations including addition, subtraction, multiplication, and division.
 * **Modulo Operator (%)**: The percentage button works as a modulo operator (`%`) and computes the remainder of a division.
